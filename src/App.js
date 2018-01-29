@@ -20,7 +20,6 @@ class Home extends Component {
   }
 }
 
-
 class Register extends Component {
   constructor(props) {
     super(props);
@@ -35,8 +34,8 @@ class Register extends Component {
     this.updateStateAge = this.updateStateAge.bind(this);
     this.updateStateName = this.updateStateName.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
-
   }
+
 
   componentDidMount() {
     axios.get('https://red-wdp-api.herokuapp.com/api/mars/jobs')
@@ -81,7 +80,6 @@ class Register extends Component {
   updateStateAge(event) {
     this.setState({
       age: event.target.value,
-
     });
 
   }

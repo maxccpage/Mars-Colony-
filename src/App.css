@@ -16,16 +16,17 @@
 
 .homeh1 {
   color:white;
-  font-size: 100px;
-  line-height: 0;
+  font-size: 150px;
+  line-height:  0;
   font-family: 'ralewaythin';
   text-align: center;
   text-transform: uppercase;
+  font-weight: 100;
 }
 
 .homeh6 {
   color:white;
-   font-size: 15px;
+   font-size: 25px;
   line-height: 0;
   font-family: 'ralewaythin';
   text-align: center;
@@ -36,6 +37,7 @@
 a { 
   align-self: center;
  }
+
 .homebutton {
   background: none;
   border: 2px solid white;
