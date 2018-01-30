@@ -1,12 +1,12 @@
 ![](./src/assets/homepage.png)
 
-# Project 5 - Mars Colony Project
-
-[](https://maxccpage.github.io/New-York-Times-API-/)
+# Mars Colony 
 
 ### Summary
 
-The Mars Colony App was created to be a Single Page Application (SPA) that could be used to register a new colonist on Mars. For this particular project we used Angular 2 and Typescript for the build, and SASS for the basic styling.
+A SPA build with React.JS, Mars Colony is a place where users can register as a colonist to go to mars and fight aliens! Once they've had alien encounters, they're able to share their experience with fellow colonist's. 
+
+[Visit Mars Here](https://maxccpage.github.io/New-York-Times-API-/)
 
 ### Languages and Tools Used
 
@@ -22,4 +22,4 @@ The Mars Colony App was created to be a Single Page Application (SPA) that could
 
 ### Learning Outcomes
 
-This project gave us the chance to delve into concepts of Angular 2 JS and apply them by building this SPA. By developing this project I have was able to gain a strong foundation of understanding of the important Angular concepts such as: components and modules, routing and navigation, classes and interfaces, and last but not least classes, interfaces and decorators that allow for form and API representation.
+In this projects, I learned the basics of one of the most popular javascript frameworks available, React. I also learned how to use Postman - a valuable API developers tool! 
